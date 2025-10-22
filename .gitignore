@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Local environment
+.env
+.env.*
+*.db
+*.sqlite
+
+# Logs and output folders
+collected_logs/
+results/
+Browser_Extraction/
+scanner_meta.db
+
+# System / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
